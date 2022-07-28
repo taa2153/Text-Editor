@@ -31,3 +31,6 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 deployed heroku: https://powerful-stream-86550.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/104754072/181493531-6056859a-de8f-47ed-8c6c-998b0cdf8a82.png)
+![image](https://user-images.githubusercontent.com/104754072/181493602-a303676a-7a84-42cc-a506-5168f1f1857f.png)
